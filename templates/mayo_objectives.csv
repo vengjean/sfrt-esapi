@@ -1,0 +1,2 @@
+StructureType,Labels,ObjectiveType,ObjectiveOperator,ObjectiveParameter,ObjectiveValue,Priority,ApplyDoseReduction
+OAR,__SELECTED_OARS__,dvh,Upper,D0,800,10,false

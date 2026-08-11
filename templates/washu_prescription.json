@@ -1,0 +1,13 @@
+{
+  "PTVLow": 2000.0,
+  "Peak_Upper": 7000.0,
+  "Peak_Lower": 6670.0,
+  "TS_Peak_Ring1": 6670.0,
+  "TS_Peak_Ring2": 6000.0,
+  "TS_Peak_Ring3": 5000.0,
+  "TS_Ring1": 2000.0,
+  "TS_Ring2": 1500.0,
+  "Valley_Upper": 2400.0,
+  "Valley_Lower": 1950.0,
+  "Valley_EUD": 2100.0
+}
